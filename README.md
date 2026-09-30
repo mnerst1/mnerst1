@@ -6,6 +6,7 @@ I'm a developer building practical projects across Android, web, desktop, and Py
 
 | Project | What it is | Built with |
 |---|---|---|
+| [UniFlow](https://github.com/mnerst1/UniFlow-Android) | A university assistant: timetable, deadlines, grades, attendance and notes | Kotlin, Jetpack Compose, Room |
 | [Neon Survivor](https://github.com/mnerst1/Neon-Survivor-Android) | A neon arcade survival game for Android | Kotlin, Android |
 | [StudyFlow](https://github.com/mnerst1/StudyFlow-Android) | A student productivity app | Kotlin, Android |
 | [Convico](https://github.com/mnerst1/Convico) | A self-hosted file converter with media previews | PHP, FFmpeg |
@@ -22,11 +23,15 @@ I'm a developer building practical projects across Android, web, desktop, and Py
 
 ## Technologies
 
-`Kotlin` · `Android` · `PHP` · `MySQL` · `JavaScript` · `Python` · `C#` · `SQLite`
+`Kotlin` · `Jetpack Compose` · `Room` · `TypeScript` · `PHP` · `MySQL` · `JavaScript` · `Python` · `C#` · `SQLite`
 
 ## 365 Days of Code
 
 I’m building and sharing projects as part of my **365 Days of Code** challenge. Each project is a chance to explore a new idea, improve my skills, and make something people can try.
+
+**Day 011 — [UniFlow](https://github.com/mnerst1/UniFlow-Android):** a university assistant with English, Kazakh and Russian interfaces, light/dark themes, local storage and deadline reminders.
+
+[Explore the challenge journal →](365-DAYS-OF-CODE.md)
 
 ## Find me
 
