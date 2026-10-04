@@ -25,13 +25,13 @@ I'm a developer building practical projects across Android, web, desktop, and Py
 
 `Kotlin` · `Jetpack Compose` · `Room` · `TypeScript` · `PHP` · `MySQL` · `JavaScript` · `Python` · `C#` · `SQLite`
 
-## 365 Days of Code
+## 15 Days of Code
 
-I’m building and sharing projects as part of my **365 Days of Code** challenge. Each project is a chance to explore a new idea, improve my skills, and make something people can try.
+I’m building and sharing projects as part of my **15 Days of Code** challenge. Each project is a chance to explore a new idea, improve my skills, and make something people can try.
 
 **Day 011 — [UniFlow](https://github.com/mnerst1/UniFlow-Android):** a university assistant with English, Kazakh and Russian interfaces, light/dark themes, local storage and deadline reminders.
 
-[Explore the challenge journal →](365-DAYS-OF-CODE.md)
+[Explore the challenge journal →](15-DAYS-OF-CODE.md)
 
 ## Find me
 
