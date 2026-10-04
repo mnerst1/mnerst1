@@ -2,7 +2,7 @@
 
 I build practical projects across Android, web, desktop and Python, then return to improve their reliability and usability.
 
-**Progress: 12 / 15 projects completed.** This journal brings together the first twelve projects of the **15 Days of Code** challenge, from a Python password generator to a self-hosted personal finance app.
+**Progress: 13 / 15 projects completed.** This journal brings together the first thirteen projects of the **15 Days of Code** challenge, from a Python password generator to a local Windows developer workspace.
 
 | Day | Project | Focus |
 |---|---|---|
@@ -18,6 +18,26 @@ I build practical projects across Android, web, desktop and Python, then return 
 | 010 | [LinkPulse](https://github.com/mnerst1/LinkPulse-TypeScript-API) | TypeScript REST API, short URLs and click analytics |
 | 011 | [UniFlow](https://github.com/mnerst1/UniFlow-Android) | Kotlin, Compose and a university assistant |
 | 012 | [FinCore](https://github.com/mnerst1/FinCore) | Next.js, TypeScript, PostgreSQL, Prisma and personal finance |
+| 013 | [DevDock](https://github.com/mnerst1/DevDock) | Python, PySide6 / Qt 6, SQLite, Git CLI and a Windows developer workspace |
+
+## Day 013 — DevDock
+
+DevDock is a local Windows workspace for managing development projects:
+
+- Project discovery for Git, Node.js/Next.js, Python, PHP/Composer, Gradle/Kotlin and Docker.
+- Workspace overview, search, favorites, tags and a Ctrl+K command palette.
+- Git status, fetch, fast-forward pull, clean-tree branch switching, commit history and file diffs.
+- TODO/FIXME/HACK scanning, source statistics and explained offline project health checks.
+- Custom commands with live stdout/stderr and confirmed stopping of DevDock-owned process trees.
+- Local port monitoring with PID, process name and ownership; external processes remain read-only.
+- Autosaved project notes, snippets, recent activity and SQLite backups.
+- English, Russian and Kazakh interfaces; Light, Dark and System themes, four appearance styles and custom accent colors.
+
+Built with Python 3.12+, PySide6 / Qt 6, SQLite, Git CLI and psutil. Developed in VS Code without Visual Studio or external API keys. The Windows onedir executable is packaged with PyInstaller; optional Inno Setup configuration is included.
+
+Version 1.0.0 passed 30 automated tests, and the packaged Windows executable completed a smoke launch with exit code 0. Installer compilation, signing and clean-machine validation remain follow-up tasks.
+
+[Source, screenshots and setup instructions](https://github.com/mnerst1/DevDock#readme) · [Download v1.0.0](https://github.com/mnerst1/DevDock/releases/tag/v1.0.0)
 
 ## Day 012 — FinCore
 
@@ -56,8 +76,8 @@ The challenge includes returning to earlier projects: fixing edge cases, adding 
 
 ## Қазақша
 
-Бұл — 15 Days of Code челленджінің жоба журналы. 15 жобаның 12-сі дайын, кестеде 001–012 күндерінің барлық жобалары берілген. Соңғы жоба — FinCore: шоттар, кірістер мен шығыстар, бюджеттер, жинақ мақсаттары және графиктері бар жеке қаржыға арналған web-қолданба.
+Бұл — 15 Days of Code челленджінің жоба журналы. 15 жобаның 13-і дайын, кестеде 001–013 күндерінің барлық жобалары берілген. Соңғы жоба — DevDock: жобалар, Git репозиторийлері, командалар, TODO маркерлері, порттар, жазбалар және код үзінділерін басқаруға арналған жергілікті Windows қолданбасы. Python, PySide6 / Qt 6 және SQLite арқылы жасалған; қазақша, орысша және ағылшынша интерфейсі бар.
 
 ## Русский
 
-Это журнал челленджа 15 Days of Code. Готово 12 из 15 проектов; в таблице собраны все дни с 001 по 012. Последний проект — FinCore: самостоятельное web-приложение для личных финансов со счетами, доходами и расходами, бюджетами, целями накоплений и графиками.
+Это журнал челленджа 15 Days of Code. Готово 13 из 15 проектов; в таблице собраны все дни с 001 по 013. Последний проект — DevDock: локальное Windows-приложение для управления проектами, Git-репозиториями, командами, TODO, портами, заметками и сниппетами. Создано на Python, PySide6 / Qt 6 и SQLite; интерфейс доступен на английском, русском и казахском.
