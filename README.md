@@ -6,6 +6,7 @@ I'm a developer building practical projects across Android, web, desktop, and Py
 
 | Project | What it is | Built with |
 |---|---|---|
+| [DevDock](https://github.com/mnerst1/DevDock) | A local Windows developer workspace for projects, Git, commands, TODOs, services, notes and snippets | Python, PySide6 / Qt 6, SQLite |
 | [UniFlow](https://github.com/mnerst1/UniFlow-Android) | A university assistant: timetable, deadlines, grades, attendance and notes | Kotlin, Jetpack Compose, Room |
 | [Neon Survivor](https://github.com/mnerst1/Neon-Survivor-Android) | A neon arcade survival game for Android | Kotlin, Android |
 | [StudyFlow](https://github.com/mnerst1/StudyFlow-Android) | A student productivity app | Kotlin, Android |
@@ -23,13 +24,15 @@ I'm a developer building practical projects across Android, web, desktop, and Py
 
 ## Technologies
 
-`Kotlin` · `Jetpack Compose` · `Room` · `TypeScript` · `PHP` · `MySQL` · `JavaScript` · `Python` · `C#` · `SQLite`
+`Kotlin` · `Jetpack Compose` · `Room` · `TypeScript` · `PHP` · `MySQL` · `JavaScript` · `Python` · `PySide6 / Qt 6` · `C#` · `SQLite`
 
 ## 15 Days of Code
 
 I’m building and sharing projects as part of my **15 Days of Code** challenge. Each project is a chance to explore a new idea, improve my skills, and make something people can try.
 
-**Day 011 — [UniFlow](https://github.com/mnerst1/UniFlow-Android):** a university assistant with English, Kazakh and Russian interfaces, light/dark themes, local storage and deadline reminders.
+**Day 013 of 15 — [DevDock](https://github.com/mnerst1/DevDock):** a local Windows developer workspace for managing projects, Git repositories, commands, TODOs, services, notes and snippets. Built with Python, PySide6 / Qt 6 and SQLite, with English, Kazakh and Russian interfaces.
+
+[Download DevDock v1.0.0 →](https://github.com/mnerst1/DevDock/releases/tag/v1.0.0)
 
 [Explore the challenge journal →](15-DAYS-OF-CODE.md)
 
