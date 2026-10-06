@@ -6,6 +6,7 @@ I'm a developer building practical projects across Android, web, desktop, and Py
 
 | Project | What it is | Built with |
 |---|---|---|
+| [WaveDeck](https://github.com/mnerst1/WaveDeck---Android) | An offline-first Android music player with Material Design and Liquid Glass themes | Kotlin, Jetpack Compose, Media3, Room |
 | [DevDock](https://github.com/mnerst1/DevDock) | A local Windows developer workspace for projects, Git, commands, TODOs, services, notes and snippets | Python, PySide6 / Qt 6, SQLite |
 | [UniFlow](https://github.com/mnerst1/UniFlow-Android) | A university assistant: timetable, deadlines, grades, attendance and notes | Kotlin, Jetpack Compose, Room |
 | [Neon Survivor](https://github.com/mnerst1/Neon-Survivor-Android) | A neon arcade survival game for Android | Kotlin, Android |
@@ -28,11 +29,11 @@ I'm a developer building practical projects across Android, web, desktop, and Py
 
 ## 15 Days of Code
 
-I’m building and sharing projects as part of my **15 Days of Code** challenge. Each project is a chance to explore a new idea, improve my skills, and make something people can try.
+I’ve completed my **15 Days of Code** challenge. It gave me the chance to explore new ideas, improve my skills, and build projects people can try.
 
-**Day 013 of 15 — [DevDock](https://github.com/mnerst1/DevDock):** a local Windows developer workspace for managing projects, Git repositories, commands, TODOs, services, notes and snippets. Built with Python, PySide6 / Qt 6 and SQLite, with English, Kazakh and Russian interfaces.
+**Day 015 of 15 — [WaveDeck](https://github.com/mnerst1/WaveDeck---Android):** an offline-first Android music player with a local music library, playlists and background playback. It offers two complete visual themes: Material Design and Liquid Glass. Built with Kotlin, Jetpack Compose, Media3 and Room.
 
-[Download DevDock v1.0.0 →](https://github.com/mnerst1/DevDock/releases/tag/v1.0.0)
+WaveDeck is the final project in the challenge. I don’t plan to publish more repositories as part of this series.
 
 [Explore the challenge journal →](15-DAYS-OF-CODE.md)
 
